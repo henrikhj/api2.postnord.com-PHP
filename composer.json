@@ -1,5 +1,5 @@
 {
-    "name": "apimatic/api2postnordcom",
+    "name": "henrikhj/api2.postnord.com-PHP",
     "type": "library",
     "description": "Lookup PostNord nearby service points, tracking information and delivery time estimates",
     "keywords": ["api2.postnord.com","API","SDK"],
